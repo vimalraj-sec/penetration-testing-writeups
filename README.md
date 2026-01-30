@@ -63,7 +63,7 @@ Each machine follows the OSCP methodology:
 - [Hawat](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/40-HAWAT.md)
 - [Walla](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/41-WALLA.md)
 - [Wombo](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/42-WOMBO.md)
-- [Aoex](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/43-APEX.md)
+- [Apex](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/43-APEX.md)
 - [Fanatastic](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/44-FANATASTIC.md)
 - [Sybaris](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/45-SYBARIS.md)
 - [Marketing](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/46-MARKETING.md)
