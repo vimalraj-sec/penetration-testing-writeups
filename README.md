@@ -116,4 +116,3 @@ Each machine follows the OSCP methodology:
 
 > ⚠️ **Disclaimer**  
 > These writeups are for **educational purposes only**.  
-> No flags, passwords, or exam-specific content are shared.
