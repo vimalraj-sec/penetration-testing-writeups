@@ -6,8 +6,8 @@ This repository contains my **OSCP-style machine writeups** created while prepar
 **Offensive Security Certified Professional (OSCP)** exam.
 
 ## 📌 Platforms Covered
-- ✅ Proving Grounds (Play & Practice)
 - ✅ TryHackMe 
+- ✅ Proving Grounds (Play & Practice)
 
 ## 🧠 Methodology Followed
 
@@ -19,8 +19,49 @@ Each machine follows the OSCP methodology:
 - Proof & Notes
 
 ## 🗂️ Machine Index
+### 🔹 TryHackMe
+#### Active Directory Machines
+- [Attacktive Directory](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ATTACKTIVE-DIRECTORY.md)
+- [Attacking Kerberos](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ATTACKING-KERBEROS.md)
+- [VulnNet Active](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/VULNETACTIVE.md)
+- [Enterprise](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ENTERPRISE.md)
+- [Reset](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/RESET.md)
+  
+#### Windows Machines
+- [SteelMountain](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/STEELMOUNTAIN-WINDOWS.md)
+- [YearoftheOWL](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/YEAROFTHEOWL.md)
+- [Retro](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/RETRO.md)
+- [Alfred](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ALFRED.md)
+- [Relevant](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/RELEVANT.md)
+- [Blueprint](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/BLUEPRINT.md)
+- [Hackpark](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/HACKPARK.md)
+- [Weasel](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/WEASEL.md)
+- [AllSignsPoint2Pwnage](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ALLSIGNSPOINT2PWNAGE.md)
+- [Anthem](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ANTHEM.md)
+- [HackSmarterSecurity](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/HACK-SMARTER-SECURITY.md)
+- [Cyberlens](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/CYBERLENS.md)
+
+#### Linux Machines
+- [MrRobot](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/MR-ROBOT.md)
+- [Thompson](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/THOMPSON.md)
+- [Kenobi](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/KENOBI.md)
+- [GameZone](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/GAMEZONE.md)
+- [SkyNet](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/SKYNET.md)
+- [DailyBugle](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/DAILYBUGLE.md)
+- [LazyAdmin](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/LAZYADMIN.md)
+- [TomGhost](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/TOMGHOST.md)
+- [RootMe](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ROOTME.md)
+- [Cmess](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/CMESS.md)
+- [UltraTech](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ULTRATECH.md)
+- [Internal](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/INTERNAL.md)
+- [Zeno](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/ZENO.md)
+- [BoilerCTF](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/BOILERCTF.md)
+- [Wonderland](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/WONDERLAND.md)
+- [SilverPlatter](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/SILVERPLATTER.md)
+- [YearOftheJellyFish](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/5e3d06dc054a339e1859fb916cbaae48a33f1f60/TryHackMe%20Machine%20Writeups/YEAROFTHEJELLYFISH.md)
 
 ### 🔹 Proving Grounds 
+#### Proving Grounds Play Machines
 - [Amaterasu](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/01-AMATERASU.md)
 - [Loly](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/02-LOLY.md)
 - [Potato](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/03-POTATO.md)
@@ -30,6 +71,8 @@ Each machine follows the OSCP methodology:
 - [Blogger](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/07-BLOGGER.md)
 - [FunBoxEasyEnum](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/08-FUNBOXEASYENUM.md)
 - [Glasgowsmile](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/09-GLASGOWSMILE.md)
+
+#### Proving Grounds Practice Machines
 - [Ochima](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/10-OCHIMA.md)
 - [Cockpit](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/11-COCKPIT.md)
 - [Pyloader](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/12-PYLOADER.md)
@@ -69,8 +112,6 @@ Each machine follows the OSCP methodology:
 - [Marketing](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/46-MARKETING.md)
 - [Hunit](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/47-HUNIT.md)
 - [Readys](https://github.com/vimalraj-sec/penetration-testing-writeups/blob/04e6b9a42780e10c1c96a8a303d1ce62cbcea99e/Offsec%20Proving%20Grounds%20Machine%20Writeups/48-READYS.md)
-
-### 🔹 TryHackMe
 
 > ⚠️ **Disclaimer**  
 > These writeups are for **educational purposes only**.  
